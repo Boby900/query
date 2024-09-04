@@ -50,10 +50,10 @@
     "src"
   ],
   "dependencies": {
-    "@typescript-eslint/utils": "^8.3.0"
+    "@typescript-eslint/utils": "^8.4.0"
   },
   "devDependencies": {
-    "@typescript-eslint/rule-tester": "^8.3.0",
+    "@typescript-eslint/rule-tester": "^8.4.0",
     "eslint": "^9.9.1"
   },
   "peerDependencies": {
